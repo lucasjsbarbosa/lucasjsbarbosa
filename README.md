@@ -26,7 +26,7 @@ Implementação de uma API web para análise de sentimentos em textos, utilizand
 ---
 
 #### 📊 [Previsão de Churn de Funcionários de RH](https://github.com/lucasjsbarbosa/previsao-de-churn-de-funcionarios)
-Modelagem preditiva para antecipar a rotatividade de funcionários utilizando algoritmos de Machine Learning.
+Modelagem preditiva para prever a rotatividade de funcionários utilizando algoritmos de Machine Learning.
 
 ---
 
