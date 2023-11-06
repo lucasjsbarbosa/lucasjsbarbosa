@@ -20,11 +20,6 @@ Utilização de Deep Learning com a arquitetura ResNet50 para identificar doenç
 
 ---
 
-#### 💬 [Análise de Sentimentos com API da OPEN AI e Flask](https://github.com/lucasjsbarbosa/analise-de-sentimento-com-python-flask-e-api-da-open-ai)
-Implementação de uma API web para análise de sentimentos em textos, utilizando Flask e a API GPT da OpenAI.
-
----
-
 #### 📊 [Previsão de Churn de Funcionários de RH](https://github.com/lucasjsbarbosa/previsao-de-churn-de-funcionarios)
 Modelagem preditiva para prever a rotatividade de funcionários utilizando algoritmos de Machine Learning.
 
@@ -37,6 +32,16 @@ Uso de técnicas de clusterização para segmentação de clientes visando otimi
 
 #### 📈 [Prevendo Vendas com Prophet](https://github.com/lucasjsbarbosa/series-temporais-vendas-de-uma-loja)
 Aplicação do modelo Prophet para prever vendas futuras e entender tendências e padrões de temporalidade.
+
+---
+
+#### 💬 [Análise de Sentimentos com API da OPEN AI e Flask](https://github.com/lucasjsbarbosa/analise-de-sentimento-com-python-flask-e-api-da-open-ai)
+Implementação de uma API web para análise de sentimentos em textos, utilizando Flask e a API GPT da OpenAI.
+
+---
+
+#### 🏭[Reconhecimento de Falhas em Peças de uma Linha de Produção](https://github.com/lucasjsbarbosa/redes-neuras-reconhecimento-de-falhas-em-pe-as-numa-linha-de-produ-o/blob/main/README.md)
+Este repositório contém um algoritmo de machine learning implementado utilizando TensorFlow e OpenCV para reconhecer e classificar falhas em peças de uma linha de produção.
 
 ---
 
