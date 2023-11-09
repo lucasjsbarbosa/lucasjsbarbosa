@@ -52,4 +52,9 @@ Participação no primeiro concurso de ciências de dados promovido pela PUC Min
 
 Cada projeto tem sua própria página com mais detalhes sobre os desafios enfrentados, as soluções implementadas e os resultados alcançados. Confira!
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucasjsbarbosa}/count.svg" /></p> 
+<br>
+</div>
 
