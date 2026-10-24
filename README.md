@@ -30,6 +30,7 @@ Data Scientist working with machine learning, NLP and computer vision, turning m
 - **Customer segmentation:** clustering to drive marketing strategy
 - **Sales forecasting:** time series with Prophet
 - **Sentiment analysis:** NLP on COVID-19 tweets, plus a Flask API powered by OpenAI
-- **1st PUC Minas Data Science Challenge:** EDA and machine learning competition
 
-*These repositories are private. Happy to walk through any of them, [reach out on LinkedIn](https://www.linkedin.com/in/lucas-barbosa-a00302167/).*
+*Most of these repositories are private. Happy to walk through any of them, [reach out on LinkedIn](https://www.linkedin.com/in/lucas-barbosa-a00302167/).*
+
+<sub>Also public: [1st PUC Minas Data Science Challenge](https://github.com/lucasjsbarbosa/1-DESAFIO-CIENCIAS-DE-DADOS-PUC-MINAS)</sub>
